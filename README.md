@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá, bem vindo(a)!
+
+Trilhando no caminho da tecnologia como dev full-stack @trybe
