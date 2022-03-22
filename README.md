@@ -42,8 +42,8 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliane-Alves&layout=compact&langs_count=7&theme=dracula"/>
   </div> <br> <br>
   
-  <h3>Quer falar comigo e ampliar sua rede?! conecte-se comigo no Linkdln</h3>
+  <h3>Quer bater um papo e ampliar sua rede?! conecte-se comigo no Linkdln</h3>
 
   <div style="display: inline_block"><br>
-    <a href="https://www.linkedin.com/in/juliane-alves-539b8a1a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/juliane-alves-js/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
